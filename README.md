@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Omran
-- 👀 I’m interested in ...
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning flutter & Dart
 
 
