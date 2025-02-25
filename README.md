@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm [Ahmed Omran]</h1>
+[Git-and-GitHub_دورة-تعليم-جيت-Git-وجيت-هب-GitHub_Ahmed-Omran.pdf](https://github.com/user-attachments/files/18966558/Git-and-GitHub_.-.-.-Git-.-.-GitHub_Ahmed-Omran.pdf)<h1 align="center">Hi 👋, I'm [Ahmed Omran]</h1>
 <h3 align="center">A Passionate Flutter Developer</h3>
 
-<img src="https://your-image-url.com/banner.png" alt="Your Banner" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedOmran22" /> </p>
 
 - 🔭 I’m currently working on **Flutter Projects**
-- 🌱 I’m currently learning **Advanced Flutter & Backend**
+- 🌱 I’m currently learning **Advanced Flutter**
 - 📫 How to reach me: **mamdouhanahamada@gmail.com**
 
 ### **Languages and Tools:**
@@ -16,11 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
-### **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 ### **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?style=flat-square&logo=github)](https://github.com/your-username)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ahmed-omran-622579274/))
