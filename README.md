@@ -1,20 +1,57 @@
-<h1 align="center">Hi 👋, I'm [Ahmed Omran]</h1>
-<h3 align="center">A Passionate Flutter Developer</h3>
+# Hi there 👋 I'm Ahmed Omran
 
+🚀 **Flutter Mobile Developer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedOmran22" /> </p>
+I build scalable and high-performance **cross-platform mobile applications using Flutter**, focusing on **Clean Architecture, maintainable code, and smooth user experiences**.
 
-- 🔭 I’m currently working on **Flutter Projects**
-- 🌱 I’m currently learning **Advanced Flutter**
-- 📫 How to reach me: **mamdouhanahamada@gmail.com**
+📍 Alexandria, Egypt
+📧 [mamdouhanahamada@gmail.com](mailto:mamdouhanahamada@gmail.com)
 
-### **Languages and Tools:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</p>
+---
 
+## 🧠 Tech Stack
 
-### **Let's Connect**
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ahmed-omran-622579274/))
+| Category             | Technologies                                              |
+| -------------------- | --------------------------------------------------------- |
+| **Language**         | Dart                                                      |
+| **Framework**        | Flutter                                                   |
+| **State Management** | Bloc / Cubit, Provider , Riverpod                                    |
+| **Backend & APIs**   | Firebase, REST APIs                                       |
+| **Local Storage**    | Hive                                                      |
+| **Mobile Features**  | Push Notifications, Google Maps, Deep Linking, Pagination |
+| **Architecture**     | Clean Architecture, SOLID, OOP                            |
+| **Tools**            | Git, GitHub, VS Code, Postman, Figma                      |
+| **Collaboration**    | Jira, Trello, Slack                                       |
+| **Deployment**       | Fastlane, Google Play Console , App Store                 |
+
+---
+
+## ⚡ Flutter & Mobile Development
+
+* Building scalable **Flutter applications**
+* Implementing **Clean Architecture**
+* Writing **maintainable and testable code**
+* Creating **smooth and responsive UI**
+* Integrating **REST APIs and Firebase services**
+
+---
+
+## 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedOmran22\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmran22\&layout=compact)
+
+---
+
+## 🤝 Community
+
+**Vice Head & Instructor — GDG Al-Azhar**
+
+* Organized technical learning programs
+* Delivered Flutter sessions and workshops
+* Mentored developers in mobile development projects
+
+---
+
+⭐ Always interested in building impactful mobile applications and collaborating on great products.
