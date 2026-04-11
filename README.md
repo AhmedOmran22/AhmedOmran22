@@ -26,9 +26,6 @@
 * 🎨 Passionate about creating **smooth and intuitive UI/UX**
 * 🚀 Always learning and exploring **advanced Flutter concepts**
 
-📍 Alexandria, Egypt
-📧 [mamdouhanahamada@gmail.com](mailto:mamdouhanahamada@gmail.com)
-
 ---
 
 ## 🔗 Contact Me
