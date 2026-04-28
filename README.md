@@ -30,7 +30,7 @@
 
 ## 🔗 Contact Me
 
-📧 Email: mamdouhanahamada@gmail.com  
+📧 Email: ahmedomran22.dev@gmail.com  
 📞 Phone: +20 122 980 4760
 
 ---
@@ -50,7 +50,7 @@
 ## 🧠 Core Skills
 
 * Flutter Development
-* Bloc / Cubit State Management
+* State Management (Bloc - Cubit - Provider - Riverpod)
 * REST API Integration
 * Firebase Integration
 * Local Storage (Hive)
