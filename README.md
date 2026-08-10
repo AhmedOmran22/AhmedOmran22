@@ -1,67 +1,59 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/AhmedOmran22)
 
-<div align="center">
-  <h1>Hi 👋, I'm Ahmed Omran</h1>
-  <h3>Flutter Mobile Developer</h3>
+---
+<h1 align="center">Hey there 👋, I'm Ahmed Omran (3omran)</h1>
 
-  <div>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedOmran22" alt="visitors">
-  </div>
+<p align="center">
+  <strong>Flutter Mobile Developer</strong> · 2+ Years of Experience · Building Apps That Scale
+</p>
 
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=700&size=22&pause=1000&color=4A8DD7&center=true&width=435&lines=Welcome+To+My+GitHub+Profile;Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps" alt="Typing SVG">
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="mailto:ahmedomran22.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201229804760"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-* 📱 **Flutter Mobile Developer** with 2+ years of experience
-* 🧠 Focused on building **scalable and maintainable mobile apps**
-* 🏗️ Applying **Clean Architecture & SOLID principles**
-* ⚡ Experienced in **API integrations and performance optimization**
-* 🎨 Passionate about creating **smooth and intuitive UI/UX**
-* 🚀 Always learning and exploring **advanced Flutter concepts**
+I'm a Flutter developer focused on building **scalable, maintainable mobile apps** with clean architecture and solid engineering practices. I care deeply about code quality, smooth user experiences, and shipping production-ready applications to both **Google Play** and the **App Store**.
 
----
-
-## 🔗 Contact Me
-
-📧 Email: ahmedomran22.dev@gmail.com  
-📞 Phone: +20 122 980 4760
+- 🏗️ Clean Architecture & SOLID principles advocate
+- ⚡ Performance-first mindset
+- 🚀 Published apps on **Google Play Store** & **Apple App Store**
+- 📚 Always leveling up with advanced Flutter patterns
 
 ---
 
-## 💻 Languages and Tools
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,git,github" />
+| Category | Technologies |
+|---|---|
+| **Core** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **State Management** | ![Bloc](https://img.shields.io/badge/Bloc%20/%20Cubit-01579B?style=flat-square&logo=data:image/png;base64,&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-FF7043?style=flat-square&logoColor=white) |
+| **Backend & Services** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-4A154B?style=flat-square&logoColor=white) |
+| **Storage** | ![Hive](https://img.shields.io/badge/Hive-FFAB00?style=flat-square&logoColor=black) ![SharedPreferences](https://img.shields.io/badge/SharedPreferences-607D8B?style=flat-square&logoColor=white) |
+| **Publishing** | ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white) ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </div>
 
 ---
 
-## 🧠 Core Skills
+### 🧠 What I Do Best
 
-* Flutter Development
-* State Management (Bloc - Cubit - Provider - Riverpod)
-* REST API Integration
-* Firebase Integration
-* Local Storage (Hive)
-* Push Notifications (FCM)
-* Google Maps Integration
-* Clean Architecture
-* SOLID Principles
-* Performance Optimization
-* Responsive UI Design
-
----
+```
+📐  Clean Architecture       →  Feature-based structure with data / domain / presentation layers
+🧱  SOLID Principles         →  Modular, testable, and maintainable codebases
+🔗  API Integration          →  REST, WebSocket, Firebase — full backend connectivity
+📦  App Publishing           →  End-to-end delivery to Google Play & App Store
+🎨  UI / UX                  →  Responsive, adaptive, and pixel-perfect interfaces
+⚡  Performance              →  Optimized builds, smooth 60fps animations
+🔔  Push Notifications       →  FCM integration for real-time user engagement
+🗺️  Google Maps              →  Location services and map-based features
+```
 
 ## 📊 GitHub Stats
 
