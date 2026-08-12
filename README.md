@@ -55,21 +55,6 @@ I'm a Flutter developer focused on building **scalable, maintainable mobile apps
 🗺️  Google Maps              →  Location services and map-based features
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedOmran22&show_icons=true&theme=algolia&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmran22&layout=compact&theme=algolia&hide_border=true" width="40%">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmran22&theme=algolia&hide_border=true" width="90%">
-
-</div>
 
 ---
 
